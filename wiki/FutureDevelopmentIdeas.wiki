@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#Some ideas on what can be improved and future features to be added.
 
 = Future Development Ideas =
 
