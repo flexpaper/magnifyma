@@ -2,12 +2,7 @@
 
 = Future Development Ideas =
 
-Add your content here.
+Here are some ideas on what can be improved and future features to be added.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * Support for Safari, Firefox and Opera. Possibly IE
+  * Firefox and Chrome add-ons
