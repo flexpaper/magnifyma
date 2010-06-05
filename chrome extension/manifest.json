@@ -1,0 +1,18 @@
+{
+  "name": "MagnifyMa",
+  "version": "0.1",
+  "description": "Extension to magnify content on the page.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title" : "Magnify content"
+  },
+  "background_page" : "background.html",
+  "permissions": [
+    "tabs", "http://*/*"
+  ],
+  "icons": {
+	"16": "icon.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+  }
+}

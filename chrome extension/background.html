@@ -1,0 +1,15 @@
+<script>
+
+chrome.browserAction.onClicked.addListener(function(tab) {
+  
+  chrome.tabs.executeScript(null, { file: "mootools-1.2.4-core.js" });
+	chrome.tabs.executeScript(null, { file: "magnify.js" });
+  chrome.tabs.insertCSS(null, { file : "magnify.css" });
+  
+  chrome.tabs.captureVisibleTab(null, null, function(dataURL) {
+    chrome.tabs.executeScript(null, { code: "var magnifyCanvasData = '"+dataURL+"';" });
+  });
+  
+});
+
+</script>
