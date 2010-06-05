@@ -1,0 +1,11 @@
+#Getting started with the experiment page
+
+= Getting Started =
+
+Getting started with the experiment page is easy. Either using the JSP or HTML version.
+
+= Step One =
+
+Checkout the code using SVN. This will give you all the main files you need to make it work.
+
+ 
