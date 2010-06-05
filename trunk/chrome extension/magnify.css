@@ -1,0 +1,5 @@
+#magnify { overflow : hidden; width : 300px; height : 300px; position : absolute; z-index : 20; top : 300px; left : 300px; display : none; }
+#magnify-glass { background : url(chrome-extension://condfabhceddaaepgdgdgoldjohjpcbb/magnify.png); width : 300px; height : 300px; position : absolute; }
+#magnify-glass.noglass { background : none !important; } 
+#magnify-canvas { -webkit-border-radius : 145px; border : 1px Solid #000; overflow : hidden; width : 290px; height : 290px; margin : 5px 0 0 5px; }
+#magnify-canvas canvas { border : 0;  } 
