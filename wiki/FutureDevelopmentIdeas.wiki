@@ -1,4 +1,4 @@
-#Some ideas on what can be improved and future features to be added.
+Some ideas on what can be improved and future features to be added.
 
 = Future Development Ideas =
 
